@@ -22,7 +22,7 @@ The highlighted in the last image is the required flag.
 <h2 align="center">BRAIN MATTER</h2>                                                      
 
 You either run from things or you face them, Mr. White.
-++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>++.++++++.-----------.++++++.++++++++++++++++++++.-----------------.-----.++++++++++++++..----------.----.+++++++++++.-------.+++++.---.++.------------.+++++++++++++.++++++++.-------------.-------.+++.++++++++++++++.++++++++++.
+`++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>>++.++++++.-----------.++++++.++++++++++++++++++++.-----------------.-----.++++++++++++++..----------.----.+++++++++++.-------.+++++.---.++.------------.+++++++++++++.++++++++.-------------.-------.+++.++++++++++++++.++++++++++.`
 
 <p align="left">Solution:</p> 
 This question comes under the cryptography section. On analysing the given cipher it turned out to be a "Brainfuck" code and on executing it we get the following:
