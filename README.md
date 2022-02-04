@@ -114,7 +114,7 @@ Combining the three of them we get the whole flag:
 
 <h2 align="center">ANBU BLACK OPS</h2>    
 
-Some of your friends from Anbu Black Ops are seriously injured while undergoing a top-secret mission. An audio file was the only clue they left behind before they went unconscious. You, being a shinobi, must find out the message and rescue your village from any danger. Remember: "a ShinObi must read the hiddeN meanings within hidden meanIngs with Courage".
+Some of your friends from Anbu Black Ops are seriously injured while undergoing a top-secret mission. An audio file was the only clue they left behind before they went unconscious. You, being a shinobi, must find out the message and rescue your village from any danger. Remember: "a ShinObi must read the hiddeN meanIngs within hidden meanings with Courage".
 
 <a href="https://drive.google.com/file/d/1QxKvB067JZW96KiBETZXs4I45opE_6yw/view">Download File</a>
 
